@@ -1,2 +1,3 @@
-# auto-analytics-dashboard-k5e7
-Automated issue comment bot repository
+# Auto Analytics Dashboard K5E7
+
+Automated issue comment bot repository.
